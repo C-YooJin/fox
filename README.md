@@ -9,6 +9,8 @@ Swagger UI를 활용한 back-front간 rest api 테스트
 - maven
 - io.springfox (3.0.0)
 
+### URL
+http://localhost:8080/swagger-ui/index.html
 
 ### Page
 ![image](https://user-images.githubusercontent.com/30011635/117266095-dca09580-ae8f-11eb-8fa3-725e1989c528.png)
