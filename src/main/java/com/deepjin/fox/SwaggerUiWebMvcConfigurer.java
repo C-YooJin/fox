@@ -26,4 +26,5 @@ public class SwaggerUiWebMvcConfigurer implements WebMvcConfigurer {
         registry.addViewController(baseUrl + "/swagger-ui/")
                 .setViewName("forward:" + baseUrl + "/swagger-ui/index.html");
     }
+
 }
