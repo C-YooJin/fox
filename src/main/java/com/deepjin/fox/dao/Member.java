@@ -1,5 +1,8 @@
 package com.deepjin.fox.dao;
 
+import lombok.Data;
+
+@Data
 public class Member {
     public String getId() {
         return id;
